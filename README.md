@@ -1,5 +1,6 @@
 # demand_forecasting
 Store Item Demand Forecasting Challenge Predict 3 months of item sales at different stores
+
 Link: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview/description
 
 This competition is provided as a way to explore different time series techniques on a relatively simple and clean dataset.
